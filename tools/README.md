@@ -1,6 +1,6 @@
-Exercises for demonstrating tool use for STAT 545:
+Exercises for demonstrating tool use for Data Science and Programming:
 
 - R
-- (R) Markdown
+- (R)Markdown
 - git
 - GitHub
